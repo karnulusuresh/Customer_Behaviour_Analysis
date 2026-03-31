@@ -52,6 +52,16 @@ We performed structured analysis in mysql to naswer key business questions.
 ### 5. Products with highest percentage of purchase when discount applied:
 <img width="164" height="116" alt="image" src="https://github.com/user-attachments/assets/2662cf99-5f17-4c52-b23b-ce1abe150276" />
 
+### 6. Customers who are loyal, returning:
+<img width="207" height="77" alt="image" src="https://github.com/user-attachments/assets/32a747f3-6616-456e-82e8-364c2920e9f5" />
+
+### 7. Top 3 most purchased products in each category:
+<img width="258" height="197" alt="image" src="https://github.com/user-attachments/assets/20f3074a-d5fb-4418-982e-3845069ab636" />
+
+### 8. Customers who are repeat buyers are also likely to subscription?
+<img width="180" height="77" alt="image" src="https://github.com/user-attachments/assets/acdf1c52-ca22-4f29-9670-1b46ddee4ae6" />
+
+
 ## Dashboard in Power BI:
 <img width="662" height="372" alt="CustomerDashboard-SC" src="https://github.com/user-attachments/assets/8dd32db6-45ac-43e8-a373-6e2dc9dfe3a9" />
 
