@@ -1,7 +1,7 @@
-# Customer_Behaviour_Analysis
+# Customer_Behavior_Analysis
 
 ## Project Overview:
-The customer shopping behaviour using transactional data from 3900 purchases across various product categories. The goal is uncover insights into spending pattern, customer segments, product preferences, and subscription behaviour to guide the business insights
+The customer shopping behavior using transactional data from 3900 purchases across various product categories. The goal is uncover insights into spending pattern, customer segments, product preferences, and subscription behaviour to guide the business insights
 
 ## Data Summary:
 Rows: 3900, columns: 18
